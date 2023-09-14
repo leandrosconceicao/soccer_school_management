@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "612024335026",
+    "firebase_url": "https://leandrotech.firebaseio.com",
+    "project_id": "leandrotech",
+    "storage_bucket": "leandrotech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612024335026:android:56e54d53477f2f3235a7ab",
+        "android_client_info": {
+          "package_name": "com.leandrotech.gestor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612024335026-44h6007ituqjl8qi6k38m0m32tqjuth3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp0x_7rtPhsTIOdYyvlexSVGdbPOI0xJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612024335026-44h6007ituqjl8qi6k38m0m32tqjuth3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "612024335026-efjtf5u0l8maqfbvgsb6kla6pv0ogl8p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.leandrotech"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612024335026:android:4fffedfafb0836f535a7ab",
+        "android_client_info": {
+          "package_name": "com.leandrotech.soccer_school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612024335026-44h6007ituqjl8qi6k38m0m32tqjuth3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp0x_7rtPhsTIOdYyvlexSVGdbPOI0xJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612024335026-44h6007ituqjl8qi6k38m0m32tqjuth3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "612024335026-efjtf5u0l8maqfbvgsb6kla6pv0ogl8p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.leandrotech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
